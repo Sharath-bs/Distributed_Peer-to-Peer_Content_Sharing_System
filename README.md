@@ -3,7 +3,8 @@ Master Index-Server Process: This is a TCP concurrent server. This process will 
 Peer-to-peer process: This process has 2 child threads. One thread acts as a client and the other acts as a music/file server. The Client makes a connection to the Index server and places a request. Once the request is responded to, the client acts accordingly. If the file exists, the client makes a new connection with the server and downloads the file. If the file does not exist, i.e., none of the servers registered on the index server has the file requested by the client, the client exits gracefully.
 
 
-Supporting Files
+**Supporting Files**
+
 •	usrList.txt
 This file is used to store user credentials. The usernames and passwords are separated by a semicolon. The index server uses this file to validate user logins.
 
