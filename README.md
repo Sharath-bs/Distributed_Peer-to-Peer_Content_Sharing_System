@@ -10,3 +10,6 @@ This file is used to store user credentials. The usernames and passwords are sep
 
 •	contentList.txt
 This file is used to store file/media content information. The information is stored like tuples in the text file separated by a semicolon. The information includes the file name, type, availability, IP, and port number. The index server uses this file to check for the files requested by clients and shares the information about the file if found in the file.
+
+
+![Picture1](https://github.com/Sharath-bs/Distributed_Peer-to-Peer_Content_Sharing_System/assets/51019251/79287d3d-ed62-4a99-bfe7-9f8641c4ce2a)
