@@ -1,0 +1,7 @@
+Aladdin;File;Yes;localhost;5000
+Ten Years;Music;Yes;localhost;11985
+The Dream;Music;No;localhost;5001
+Stubborn;Image;Yes;localhost;12577
+Rock It;Music;Yes;localhost;11985
+Serenity;Image;Yes;localhost;15250
+Micky Text;File;No;localhost;5002
